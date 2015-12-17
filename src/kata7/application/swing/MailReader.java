@@ -7,8 +7,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import kata7.Person;
-import kata7.Person;
 
 public class MailReader {
 
